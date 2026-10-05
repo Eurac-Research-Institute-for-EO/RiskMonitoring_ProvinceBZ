@@ -1,0 +1,5 @@
+burst_id,subswath_name,relative_orbit_number,id,backend_name,status,start_time,running_start_time,cpu,memory,duration,costs
+30343,IW3,15,,,not_started,,,,,,
+30344,IW3,15,,,not_started,,,,,,
+202702,IW3,95,,,not_started,,,,,,
+249434,IW1,117,,,not_started,,,,,,
